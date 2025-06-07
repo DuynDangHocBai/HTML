@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<head>
+    <title> This is Title </title>
+    <!-- <br>: xuong dong-->
+</head>
+
+<body>
+    <h1>
+        <p> Các thẻ HTML cơ bản </p>
+    </h1>
+    <h2>
+        <p> 1. HTML headings: </p>
+    </h2>
+    <p> Xác định thứ bậc và cấu trúc.</p>
+    <h2>
+        <p> 2. HTML paragraph:</p>
+    </h2>
+    <p> This is a paragraph </p>
+    <h2>
+        <p> 3.Ngắt dòng:</p>
+    </h2>
+    <p> This is a paragraph <br> with break line. </p>
+    <h2>
+        <p> 4. Tạo đường kẻ ngang</p>
+    </h2>
+    <!-- <hr size ="x" width = "y%">: dong ke -->
+    <hr>
+    <h2>
+        <p> 5. Chèn khoảng trắng </p>
+    </h2>
+    <p> A paragraph has multiple &nbsp; : &nbsp; space</p>
+
+    <h2>
+        <p> 6. In đậm</p>
+    </h2>
+    <p> Bold: Chỉ làm chữ in đậm (trang trí). Không mang ý nghĩa đặc biệt
+        <br> A paragraph is in <b> bold </b>
+    </p>
+    <p> Strong Importance: Làm đậm chữ. Mang ý nghĩa ngữ nghĩa - thể hiện sự nhấn mạnh.
+        <br> A paragraph is <strong> strong importance </strong>
+    </p>
+    <h2>
+        <p> 7. In nghiêng</p>
+    </h2>
+    <p> Italic: Chỉ làm chữ in nghiêng (trang trí, tên sách, ...)
+        <br>His name is <i> Felis</i>
+    </p>
+    <p> Emphasis: Làm nghiêng chữ và thể hiện sử nhấn mạnh về ngữ nghĩa
+        <br> I <em> don't like</em> that.
+    </p>
+    <h2>
+        <p> 8. Đánh dấu (Highlight) </p>
+    </h2>
+    <p> Don't forger to buy <mark> milk</mark>. </p>
+    <h2>
+        <p> 9. Xóa </p>
+    </h2>
+    <p> My favorite color is <del> red</del> blue. </p>
+    <h2>
+        <p> 10. Chèn </p>
+    </h2>
+    <p> My favorite color is <ins> blue</ins> </p>
+    <h2>
+        <p>11. Chỉ số dòng trên (sup) và dòng dưới (sub) </p>
+    </h2>
+    <p> This is <sup> superscripted</sup> text.
+        <br> This is <sub> subscripted</sub> text.
+    </p>
+
+    <h2>
+        <p>12. Các phần tử trích dẫn - HTML Quotation</p>
+    </h2>
+    <p> Block Quote: Một phần được trích dẫn từ một nguồn khác.
+    <blockquote cite="https://www.facebook.com/duyeen002.psycho/demo1.html">
+        My facebook's profile.
+    </blockquote>
+    </p>
+    <p> Quote: Một trích dẫn ngắn. Nội dung đặt trong dấu " ".
+        <br> My name: <q> Duyen</q>.
+    </p>
+    <p> Abbreviation: Viết tắt/ từ viết tắt
+        <br> <abbr title="HyperText Transfer Protocol "> HTTP</abbr>
+    </p>
+    <p> Cite: Xác định tên tác phẩm sáng tạo. Hiển thị dạng in nghiêng.
+        <br> <cite> Doraemon </cite> by Fujiko f Fujio.
+    </p>
+    <h2>
+        <p>13. Links </p>
+    </h2>
+    <p> </p>
+
+</body>
